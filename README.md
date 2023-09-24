@@ -1,9 +1,9 @@
 # Labtop_data_analysis
 
-자동적인 웹페이지 저장을 위한 과정설명:
+## 자동적인 웹페이지 저장을 위한 과정설명:
 
 
-1.한 번에 javaport를 실행시키는 cmd파일 만들기.
+1. 한 번에 javaport를 실행시키는 cmd파일 만들기.
 
 java를 이용해서 RSelenium을 이용할 것이다. 따라서 cmd실행 및 java -Dwebdriver.gecko.driver="geckodriver.exe" -jar selenium-server-standalone-3.9.1.jar -port 4446까지 자동입력이 이루어져야 한다.
 
